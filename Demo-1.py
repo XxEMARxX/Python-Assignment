@@ -1,0 +1,8 @@
+Name= input("What is your name")
+Age= int(input("What is your age"))
+MartialStatus=input("what is your Martial Status")
+print("Name=",Name,"Age=",Age,"MartialStatus=",MartialStatus)
+print(abs(-1000))
+print(max(48,75,34,62,83,94))
+print(min(-98,-53,-44,-87,-34,-10))
+print(pow(63,5))

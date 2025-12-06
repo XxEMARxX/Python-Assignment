@@ -1,0 +1,4 @@
+GIT & GIT Command.txt
+git config --global user.name "XxEMARxX"
+git config --global user.email "essa.mohammed001@gmail.com"
+git pull origin main
